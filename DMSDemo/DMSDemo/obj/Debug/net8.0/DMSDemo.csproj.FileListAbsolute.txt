@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\bin\Debug\net8.0\DMSDemo.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\bin\Debug\net8.0\DMSDemo.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\bin\Debug\net8.0\DMSDemo.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\bin\Debug\net8.0\DMSDemo.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\bin\Debug\net8.0\DMSDemo.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\refint\DMSDemo.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\DMSDemo.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DMSDemo\DMSDemo\obj\Debug\net8.0\ref\DMSDemo.dll

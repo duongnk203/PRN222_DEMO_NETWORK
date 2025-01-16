@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\bin\Debug\net8.0\DemoURI.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\bin\Debug\net8.0\DemoURI.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\bin\Debug\net8.0\DemoURI.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\bin\Debug\net8.0\DemoURI.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\bin\Debug\net8.0\DemoURI.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\refint\DemoURI.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\DemoURI.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoURI\DemoURI\obj\Debug\net8.0\ref\DemoURI.dll

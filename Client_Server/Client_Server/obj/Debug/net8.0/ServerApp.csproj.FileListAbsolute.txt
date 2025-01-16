@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\bin\Debug\net8.0\ServerApp.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\bin\Debug\net8.0\ServerApp.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\bin\Debug\net8.0\ServerApp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\bin\Debug\net8.0\ServerApp.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\refint\ServerApp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\Client_Server\Client_Server\obj\Debug\net8.0\ref\ServerApp.dll

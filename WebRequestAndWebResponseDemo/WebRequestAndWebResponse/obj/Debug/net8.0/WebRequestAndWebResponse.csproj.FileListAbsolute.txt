@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\bin\Debug\net8.0\WebRequestAndWebResponse.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\bin\Debug\net8.0\WebRequestAndWebResponse.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\bin\Debug\net8.0\WebRequestAndWebResponse.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\bin\Debug\net8.0\WebRequestAndWebResponse.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\bin\Debug\net8.0\WebRequestAndWebResponse.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\refint\WebRequestAndWebResponse.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\WebRequestAndWebResponse.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\WebRequestAndWebResponseDemo\WebRequestAndWebResponse\obj\Debug\net8.0\ref\WebRequestAndWebResponse.dll

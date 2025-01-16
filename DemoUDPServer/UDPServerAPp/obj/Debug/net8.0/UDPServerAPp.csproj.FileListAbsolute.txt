@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\bin\Debug\net8.0\UDPServerAPp.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\bin\Debug\net8.0\UDPServerAPp.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\bin\Debug\net8.0\UDPServerAPp.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\bin\Debug\net8.0\UDPServerAPp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\bin\Debug\net8.0\UDPServerAPp.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\refint\UDPServerAPp.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\UDPServerAPp.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\DemoUDPServer\UDPServerAPp\obj\Debug\net8.0\ref\UDPServerAPp.dll

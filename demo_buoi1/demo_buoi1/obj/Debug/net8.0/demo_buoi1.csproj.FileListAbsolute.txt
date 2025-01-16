@@ -1,0 +1,14 @@
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\bin\Debug\net8.0\demo_buoi1.exe
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\bin\Debug\net8.0\demo_buoi1.deps.json
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\bin\Debug\net8.0\demo_buoi1.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\bin\Debug\net8.0\demo_buoi1.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\bin\Debug\net8.0\demo_buoi1.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\refint\demo_buoi1.dll
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.pdb
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\demo_buoi1.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\Demo\demo_buoi1\demo_buoi1\obj\Debug\net8.0\ref\demo_buoi1.dll
