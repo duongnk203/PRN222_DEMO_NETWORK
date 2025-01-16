@@ -1,0 +1,15 @@
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.AssemblyInfoInputs.cache
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.AssemblyInfo.cs
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.csproj.CoreCompileInputs.cache
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.sourcelink.json
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\bin\Debug\net8.0\Demo_Task_3.exe
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\bin\Debug\net8.0\Demo_Task_3.deps.json
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\bin\Debug\net8.0\Demo_Task_3.runtimeconfig.json
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\bin\Debug\net8.0\Demo_Task_3.dll
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\bin\Debug\net8.0\Demo_Task_3.pdb
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.dll
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\refint\Demo_Task_3.dll
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.pdb
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\Demo_Task_3.genruntimeconfig.cache
+D:\Software_engineering\KY_7\PRN_222\DemoNetwork\DEMO_Chapter_2_Task\Demo_Task_3\obj\Debug\net8.0\ref\Demo_Task_3.dll
