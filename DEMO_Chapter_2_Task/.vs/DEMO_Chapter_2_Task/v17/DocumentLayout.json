@@ -30,9 +30,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Software_engineering\\KY_7\\PRN_222\\DemoNetwork\\DEMO_Chapter_2_Task\\Demo_Task_3\\Program.cs",
               "RelativeDocumentMoniker": "Demo_Task_3\\Program.cs",
-              "ToolTip": "D:\\Software_engineering\\KY_7\\PRN_222\\DemoNetwork\\DEMO_Chapter_2_Task\\Demo_Task_3\\Program.cs",
-              "RelativeToolTip": "Demo_Task_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\Software_engineering\\KY_7\\PRN_222\\DemoNetwork\\DEMO_Chapter_2_Task\\Demo_Task_3\\Program.cs*",
+              "RelativeToolTip": "Demo_Task_3\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:33:31.794Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Demo_Task_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:13:49.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:13:49.233Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Demo_Task_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:02:25.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:02:25.36Z"
             }
           ]
         }
